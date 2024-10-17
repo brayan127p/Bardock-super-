@@ -14,8 +14,8 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['526748616996', 'Kakaroto- 𝑩𝑶𝑻', true],
-  ['5491166401905', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
+  ['526748616996', 'Saijan- 𝑩𝑶𝑻', true],
+  ['525659131070', '┈━═[ৡ͜͡✞Saiyan➵͡ ]═━', true],
   ['584248778828'],
   ['573142051545'],
   ['5491166401905'],
@@ -42,16 +42,16 @@ global.jadi = 'GokuJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` ༒︎𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻༒︎`
-global.author = `♾━━━━━━━━\n⇝͟͞ ۵༒︎𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻༒︎⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢KᗩKᗩᖇOTO-ᗷOT❁༯`;
-global.wm = '༆𝙺𝚊𝚔𝚊𝚛𝚘𝚝𝚘 𝙱𝚘𝚝༆';
-global.titulowm = '༒︎𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻༒︎';
-global.titulowm2 = `𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻 𝑶𝑭𝑪`
+global.packname = ` ┈━═[ৡ͜͡✞Saiyan➵͡ ]═━ - 𝑩𝑶𝑻༒︎`
+global.author = `♾━━━━━━━━\n⇝͟͞ ۵༒︎𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻༒︎⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ┈━═[ৡ͜͡✞Saiyan➵͡ ]═━\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ୭࠭͢Vegeta-ᗷOT❁༯`;
+global.wm = '༆Vegeta 𝙱𝚘𝚝༆';
+global.titulowm = '┈━═[ৡ͜͡✞Saiyan➵͡ ]═━ - 𝑩𝑶𝑻༒︎';
+global.titulowm2 = `Saiyan - 𝑩𝑶𝑻 𝑶𝑭𝑪`
 global.igfg = '༒︎𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎'
-global.botname = '𝑩𝑶𝑻 𝑶𝑭𝑪 𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎᯾'
+global.botname = '𝑩𝑶𝑻 𝑶𝑭𝑪 VEGETA ᯾'
 global.dev = '💨 Powered By ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆'
-global.textbot = ' 𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻༆ : ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆'
-global.gt = '༒︎𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻༒︎';
+global.textbot = ' VEGETA- 𝑩𝑶𝑻༆ : ┈━═[ৡ͜͡✞Saiyan➵͡ ]═━'
+global.gt = '༒︎VEGETA - 𝑩𝑶𝑻༒︎';
 global.namechannel = 'ᑕᕼᗩᑎᑎᗴᒪ 𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝑩𝑶𝑻༆ : ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆'
 
 
@@ -94,28 +94,28 @@ global.sickerque = [que, que2, que3, que4, que5, que6]
 global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'ᴋᴀʟᴀʀᴏᴛᴏ-Bot࿐', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Vegets-Bot࿐', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕⚔️', jpegThumbnail: logo5 }}};
+global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Vegeta', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕⚔️', jpegThumbnail: logo5 }}};
 
-global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄DRAKO (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
+global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Vegeta', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Vegeta(￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
 
-global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Kᴀᴋᴀʀᴏᴛᴏ (^_^♪) ⚔️', jpegThumbnail: logo5 }}};
+global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Vegeta', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Kᴀᴋᴀʀᴏᴛᴏ (^_^♪) ⚔️', jpegThumbnail: logo5 }}};
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Kakaroto༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Vegeta༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`͟͞ 𓆩ꪶꪾᒪᗴᘜᗴᑎᗪᗩᖇY༒︎࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `Kᴀᴋᴀʀᴏᴛᴏ-ʟᴇɢᴇɴ࿐\n  ͟͞ 𓆩ꪶꪾ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆ ͟͞`, 'jpegThumbnail': logo4 }}}
+global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`┈━═[ৡ͜͡✞Saiyan➵͡ ]═━࠱࠭ ͟͞`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `Vegeta-ʟᴇɢᴇɴ࿐\n  ͟͞ 𓆩┈━═[ৡ͜͡✞Saiyan➵͡ ]═━ ͟͞`, 'jpegThumbnail': logo4 }}}
 
-//• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Grupo Oficial De Drako
-global.gp1 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Grupo 
-global.gp2 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'//
-global.comunidad1 = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Comunidad Drako
-global.channel = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Canal Oficial
-global.yt = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Canal De Youtube
-global.md = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW' //Github Oficial
-global.correo = 'https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW'
-global.cn ='https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW';
+//• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿 
+global.gp4 = 'https://chat.whatsapp.com/DmeDYgjJHiJLubrBmZIevJ' //Grupo Oficial De Drako
+global.gp1 = 'https://chat.whatsapp.com/DmeDYgjJHiJLubrBmZIevJ' //Grupo 
+global.gp2 = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE'//
+global.comunidad1 = 'https://chat.whatsapp.com/DmeDYgjJHiJLubrBmZIevJ' //Comunidad 
+global.channel = 'https://chat.whatsapp.com/GR1DQTtrfJA7a3O43vY7WT' //Canal Oficial
+global.yt = 'https://chat.whatsapp.com/GR1DQTtrfJA7a3O43vY7WT' //Canal De Youtube
+global.md = 'https://chat.whatsapp.com/GR1DQTtrfJA7a3O43vY7WT' //Github Oficial
+global.correo = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE'
+global.cn ='https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
@@ -130,8 +130,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKakaroto - Bot`;
-global.nomorown = '5491166401905';
+global.wm2 = `${dia} ${fecha}\nVegeta - Bot`;
+global.nomorown = '525659131070';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
