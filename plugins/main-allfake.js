@@ -32,14 +32,14 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/5491166401905'
+global.creador = 'Wa.me/525659131070'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5491166401905'
-global.namechannel = '⏤͟͞ू𝗞𝗮𝗸𝗮𝗿𝗼𝘁𝗼࿐/☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆'
-global.namechannel2 = '𝐊𝐀𝐊𝐀𝐑𝐎𝐓𝐎 - 𝗧𝗲𝗮𝗺'
-global.namegrupo = '⁝̵̓ᝒ𝗞𝗔𝗞𝗔𝗥𝗢𝗧𝗢'
-global.namecomu = '𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗞𝗔𝗞𝗔𝗥𝗢𝗧𝗢'
-global.namecomu2 = '𝗖𝗛𝗔𝗡𝗘𝗟𝗟 𝗞𝗔𝗞𝗔𝗥𝗢𝗧𝗢'
+global.asistencia = 'Wa.me/525659131070'
+global.namechannel = '⏤͟͞ूVEGETA࿐/☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆'
+global.namechannel2 = 'VEGETA - 𝗧𝗲𝗮𝗺'
+global.namegrupo = '⁝̵̓ᝒVEGETA'
+global.namecomu = '𝗖𝗵𝗮𝗻𝗻𝗲𝗹 VEGETA'
+global.namecomu2 = '𝗖𝗛𝗔𝗡𝗘𝗟𝗟 VEGETA'
 global.colab1 = 'Jostin'
 global.colab2 = 'Maicol'
 global.colab3 = 'Dino'
@@ -64,8 +64,8 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 
 //Enlaces
 var grupo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var canal = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'  
-var git = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' 
+var canal = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE'  
+var git = 'https://chat.whatsapp.com/JAN61DvAeNsI8br7ctM1VE' 
 var youtube = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' 
 var github = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' 
 let correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
@@ -101,12 +101,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/hPJa.jpg',
-'https://qu.ax/wqN.jpg',
-'https://qu.ax/sVtk.jpeg',
-'https://qu.ax/xmbi.jpg',
-'https://qu.ax/xmbi.jpg',
-'https://qu.ax/wqN.jpg'
+'https://i.ibb.co/Zh1Ps5w/file.jpg',
+'https://i.ibb.co/Zh1Ps5w/file.jpg',
+'https://i.ibb.co/Zh1Ps5w/file.jpg',
+'https://i.ibb.co/8gDW8XY/file.jpg',
+'https://i.ibb.co/8gDW8XY/file.jpg',
+'https://i.ibb.co/8gDW8XY/file.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363323286489957@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '💨 ꜞᴱˡ ᵇᵒᵗ ᵐᵃˢ ᵉˣᵖˡᵒˢⁱᵛᵒꜝ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
