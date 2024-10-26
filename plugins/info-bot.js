@@ -6,8 +6,7 @@ handler.all = async function(m) {
 const chat = global.db.data.chats[m.chat];
 if (chat.isBaneed) return
 if (/^bot$/i.test(m.text)) {
-conn.reply(m.chat, `👻 ¡Hola! Soy Kakatoto-Bot, en que puedo ayudarte hoy?\n\n✰ Usa *!menu* para ver mis comandos.`, m, rcanal, )
-}
+conn.reply(m.chat, `👻 ¡Hola! Soy El principe de los saiyans en que puedo ayudarte hoy sabandija? \n\n✰ Usa *.menu* para ver mis comandos insecto.
 /*if (/^que|q$/i.test(m.text)) {
 conn.reply(m.chat, `*so y arroz* 👌🤌`, m, rcanal, )
 }*/
