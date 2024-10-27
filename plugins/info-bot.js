@@ -93,7 +93,7 @@ conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 
 ✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*`, m, rcanal, )
 }
-if (/^porno/i.test(m.text)) {
+if (/^porno|xxx|cp|gore/i.test(m.text)) {
 conn.reply(m.chat, `*Escucha maldita sabandija ni se te ocurra enviar ese tipo de contenido 🤬*`, m, rcanal, )
   }
 return !0;
