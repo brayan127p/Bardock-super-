@@ -96,6 +96,10 @@ conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 if (/^porno|xxx|cp|gore/i.test(m.text)) {
 conn.reply(m.chat, `*Escucha maldita sabandija ni se te ocurra enviar ese tipo de contenido 🤬*`, m, rcanal, )
   }
+
+if (/^Esclavo/i.test(m.text)) {
+conn.reply(m.chat, `*Ordenes cumplidas amo, hermoso precioso y bello*`, m, rcanal, )
+}
 return !0;
 };
 export default handler;
