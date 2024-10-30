@@ -18,6 +18,22 @@ if (/^Bot de mierda/i.test(m.text)) {
 conn.reply(m.chat, `*No digas mamadas, Meriyein*`, m, rcanal, )
 }
 
+if (/^destroy|Wilker|Destroy$/i.test(m.text)) {
+conn.reply(m.chat, `*Destroy🔥 es la perrita de mi creador* 🥵🥵`, m, rcanal, )
+}
+
+if (/^tesis|I'm Fz|fz|im fz$/i.test(m.text)) {
+conn.reply(m.chat, `*I'm fz~🔥 es la pajeadora de mi creador* 🥵🥵`, m, rcanal, )
+}
+
+if (/^porno|cp|xxx|gore|nopor/i.test(m.text)) {
+conn.reply(m.chat, `*Escucha maldita sabandija ni se te ocurra enviar ese tipo de contenido 🤬*`, m, rcanal, )
+}
+
+if (/^a$/i.test(m.text)) {
+conn.reply(m.chat, `*rroz y pollo* 😋👌`, m, rcanal, )
+}
+
 if (/^Bot Perzonalizado Simple/i.test(m.text)) {
 conn.reply(m.chat, `*Claro, El Bot Perzonalizado Simple Cuesta 14$ Con Server Incluído y comisión, trae comandos básicos.[🌠]*`, m, rcanal, )
 }
@@ -32,7 +48,7 @@ if (/^Bot de mrd/i.test(m.text)) {
 conn.reply(m.chat, `*Ya te dieron De Comer?🥵🍆*`, m, rcanal, )
 }
 
-if (/^Vendes Bot/i.test(m.text)) {
+if (/^Vendes Bot|Venden Bot|Quiero Comprar Bot|Quiero Comprar un bot/i.test(m.text)) {
 conn.reply(m.chat, `*Claro,¡Vendemos Los Mejores Bots!*
 Tenemos:
 •Bot Perzonalizado Plus o normal 
@@ -41,21 +57,29 @@ Tenemos:
 > *Consulta Los Precios [🌠]*`, m, rcanal, )
 }
 
-if (/^Conoces a Legendary/i.test(m.text)) { 
+if (/^Conoces a Legendary|diomar|legendary/i.test(m.text)) { 
 conn.reply(m.chat, `*Si Lo conozco, Es Una Zorra caliente 🥵❤️‍🔥*`, m, rcanal, )
 }
 
-if (/^Como uno al bot en mi grupo/i.test(m.text)) {
+if (/^Lan/i.test(m.text)) {
+conn.reply(m.chat, `*Lan se la chupa 3 veces seguidas en 5 minutos a mí creador🥵🔥*`, m, rcanal, )
+}
+
+if (/^Nodoka|lobo|nakano/i.test(m.text)) { 
+conn.reply(m.chat, `*Nodoka Mi Amor, Culona 🥵❤️‍🔥*`, m, rcanal, )
+}
+
+if (/^Como uno al bot en mi grupo|cómo puedo tener un bot en mi grupo|Bot Para Grupo|botgp/i.test(m.text)) {
 conn.reply(m.chat, `*¡Contacta Al Creador!*
-> *wa.me/525659131070*`, m, rcanal, )
+> *wa.me/50557865603*`, m, rcanal, )
 }
 
 if (/^Bot en decadencia/i.test(m.text)) {
 conn.reply(m.chat, `*Calla 🍆🥵*`, m, rcanal, )
 }
 
-if (/^saiyan|creador/i.test(m.text)) {
-conn.reply(m.chat, `*saiysn Es Mi Creador, Respeta!*`, m, rcanal, )
+if (/^Niño Piña|niño|piña/i.test(m.text)) {
+conn.reply(m.chat, `*Niño Piña Es Mi Creador, Respeta!*`, m, rcanal, )
 }
 
 if (/^Crow$/i.test(m.text)) {
@@ -89,16 +113,9 @@ conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 █║║██║║██║║██║║██║║█
 ✧･ﾟ: *✧･Atte.
 
-☆ ፝͜★ৡ͜͡✞Saiyan➵͡☠️⃪̸ੵ᷒ᰰ↱
+☆ ፝͜★ৡ͜͡✞ *VegetaBot* ➵͡☠️⃪̸ੵ᷒ᰰ↱
 
 ✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*`, m, rcanal, )
-}
-if (/^porno|xxx|cp|gore/i.test(m.text)) {
-conn.reply(m.chat, `*Escucha maldita sabandija ni se te ocurra enviar ese tipo de contenido 🤬*`, m, rcanal, )
-  }
-
-if (/^Esclavo/i.test(m.text)) {
-conn.reply(m.chat, `*Ordenes cumplidas amo, hermoso precioso y bello*`, m, rcanal, )
 }
 return !0;
 };
