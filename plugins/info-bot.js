@@ -78,15 +78,15 @@ if (/^Bot en decadencia/i.test(m.text)) {
 conn.reply(m.chat, `*Calla 🍆🥵*`, m, rcanal, )
 }
 
-if (/^Niño Piña|niño|piña/i.test(m.text)) {
-conn.reply(m.chat, `*Niño Piña Es Mi Creador, Respeta!*`, m, rcanal, )
+if (/^Saijan|vegeta|Leyva/i.test(m.text)) {
+conn.reply(m.chat, `*Saijan Es Mi Creador, Respeta!*`, m, rcanal, )
 }
 
-if (/^Crow$/i.test(m.text)) {
-conn.reply(m.chat, `*Hola Eres Fan De* *CrowBot o Brawl Stars*
+if (/^Vegeta$/i.test(m.text)) {
+conn.reply(m.chat, `*¿Hola Eres Fan De* *VegetaBot o Goku?*
 *Entonces Sigue El Canal Oficial!*
 > https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d
- *Gracias por utilizar CrowBot-MD* `, m, rcanal, )
+ *Gracias por utilizar VegetaBotBot-MD* `, m, rcanal, )
 }
 if (/^reglas$/i.test(m.text)) {
 conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
