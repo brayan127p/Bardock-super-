@@ -78,14 +78,14 @@ if (/^Bot en decadencia/i.test(m.text)) {
 conn.reply(m.chat, `*Calla 🍆🥵*`, m, rcanal, )
 }
 
-if (/^Saijan|vegeta|Leyva/i.test(m.text)) {
+if (/^Saijan|Leyva/i.test(m.text)) {
 conn.reply(m.chat, `*Saijan Es Mi Creador, Respeta!*`, m, rcanal, )
 }
 
-if (/^Vegeta$/i.test(m.text)) {
+if (/^Vegeta|goku|kakaroto|dragon|$/i.test(m.text)) {
 conn.reply(m.chat, `*¿Hola Eres Fan De* *VegetaBot o Goku?*
 *Entonces Sigue El Canal Oficial!*
-> https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d
+> https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t
  *Gracias por utilizar VegetaBotBot-MD* `, m, rcanal, )
 }
 if (/^reglas$/i.test(m.text)) {
