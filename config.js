@@ -41,17 +41,17 @@ global.jadi = 'BrookJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` 💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫`
-global.author = `♾━━━━━━━━\n⇝͟͞ 💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫༯`;
-global.wm = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫';
-global.titulowm = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫';
-global.titulowm2 = `💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫`
-global.igfg = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.botname = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.dev = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.textbot = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.gt = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫';
-global.namechannel = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
+global.packname = ` ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫`
+global.author = `♾━━━━━━━━\n⇝͟͞ ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫༯`;
+global.wm = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
+global.titulowm = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
+global.titulowm2 = `༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫`
+global.igfg = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.botname = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.dev = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.textbot = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.gt = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
+global.namechannel = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -127,7 +127,7 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKakaroto - Bot`;
+global.wm2 = `${dia} ${fecha}\nBrook - Bot`;
 global.nomorown = '584148256527';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
