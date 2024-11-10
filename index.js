@@ -7,13 +7,13 @@ import cfonts from 'cfonts';
 import { createInterface } from 'readline';
 import yargs from 'yargs';
 import chalk from 'chalk';
-console.log('\n✰ Iniciando BROOK-BOT-MD ✰');
+console.log('\n✰ Iniciando Brook Bot ✰');
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const require = createRequire(__dirname);
 const { name, description, author, version } = require(join(__dirname, './package.json'));
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
-say('BROOK-BOT-MD', {
+say('Brook-Bot-MD', {
 font: 'block',
 align: 'center',
 colors: ['white']
@@ -23,7 +23,7 @@ font: 'chrome',
 align: 'center',
 colors: ['red']
 });
-say(`Developed By • TEAM ANIME WARRIORS, {
+say(`Developed By • Team Anime Warriors`, {
 font: 'console',
 align: 'center',
 colors: ['yellow']
