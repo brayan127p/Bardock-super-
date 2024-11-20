@@ -12,6 +12,7 @@ conn.reply(m.chat, `🚩 ¡Hola! Soy Book-Bot-MD, en que puedo ayudarte hoy?\n\n
 let vn = 'https://files.catbox.moe/eyv8yl.opus';'
 this.sendPresenceUpdate('recording', m.chat)   
 this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: fkontak })}
+}
 /*if (/^que|q$/i.test(m.text)) {
 conn.reply(m.chat, `*so y arroz* 👌🤌`, m, rcanal, )
 }*/
