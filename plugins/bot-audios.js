@@ -39,6 +39,11 @@ let vn = 'https://qu.ax/GoKq.mp3'
 this.sendPresenceUpdate('recording', m.chat)   
 this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: fkontak })}
 
+if (chat.audios && m.text.match(/(Brook|brook)/gi)) {    
+let vn = 'https://qu.ax/CQgP.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendMessage(m.chat, { audio: { url: vn }, fileName: 'error.mp3', mimetype: 'audio/mp4', ptt: true }, { quoted: m })}
+  
 if (chat.audios && m.text.match(/(Calla Fan de bts|bts|Amo a bts)/gi)) {
 let vn = 'https://qu.ax/oqNf.mp3'
 let sticker = 'https://qu.ax/rfHP.webp'
