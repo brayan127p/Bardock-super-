@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
   let user = global.db.data.users[m.sender];
 
   const audioMap = {
-    'Brook': './Brook/brook.mp3',
+    'Brook': './brook/brook.mp3',
 
   };
 
