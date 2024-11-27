@@ -33,8 +33,8 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     }, { quoted: m });
 }
 
-handler.command = ['play1', 'play2'];
-handler.help = ['play1', 'play2'];
+handler.command = ['play1', 'playv1'];
+handler.help = ['play1', 'playv1'];
 handler.tags = ['descargas'];
 export default handler;
 
