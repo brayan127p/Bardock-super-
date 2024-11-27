@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
   let user = global.db.data.users[m.sender];
 
   const audioMap = {
-    'brook': './Brook/brook.mp3',
+    'Brook': './Brook/brook.mp3',
 
   };
 
@@ -31,8 +31,8 @@ let handler = async (m, { conn }) => {
   }
 };
 
-handler.help = ['brook]
-handler.customPrefix = /^(brook)/i;
+handler.help = ['brook|Brook]
+handler.customPrefix = /^(brook|Brook)/i;
 handler.command = new RegExp;
 handler.tags = ['Audios Dbz'] 
 export default handler;
