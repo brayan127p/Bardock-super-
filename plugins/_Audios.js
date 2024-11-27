@@ -3,5 +3,5 @@ let audio = fs.readFileSync('./brook/brook.mp3') // Cambia el directorio segun e
 await conn.sendFile(m.chat, audio, 'brook.mp3', '', m)
 }
 
-handler.command = ['brook']
+handler.command = ['brook2']
 export default handler
