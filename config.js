@@ -35,9 +35,9 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
-global.nameqr = 'BROOK-BOT-MD'
-global.sessions = 'BrookSession'
-global.jadi = 'BrookJadiBot'
+global.nameqr = 'BARDOCK-SUPER-BOT-MD'
+global.sessions = 'BardockSession'
+global.jadi = 'BardockJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
