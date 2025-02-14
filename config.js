@@ -14,9 +14,9 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['50557865603', 'Legen-Soporte', true],
-  ['51978660122', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
-  ['584148256527'],
+  ['526633900512', 'Brayan-Soporte', true],
+  ['526633900512', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒BRAYAN༒꧂☆', true],
+  ['526633900512'],
   ['51923300039'],
   ['15045475386'],
   ['584120346669']
@@ -24,9 +24,9 @@ global.owner = [
 
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['584148256527', '5218711426787', '', '', '']
+global.mods = ['526633900512', '5218711426787', '', '', '']
 
-global.suittag = ['584148256527']
+global.suittag = ['526633900512']
 global.prems = []
 
 //cambiar a true si el bot detecta sus propios comandos.
@@ -41,17 +41,17 @@ global.jadi = 'BrookJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫`
-global.author = `♾━━━━━━━━\n⇝͟͞ ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫༯`;
-global.wm = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
-global.titulowm = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
+global.packname = ` ༒︎☠︎︎ BARDOCK-SUPER-BO𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫`
+global.author = `♾━━━━━━━━\n⇝͟͞ ༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒BRAYAN༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫༯`;
+global.wm = '༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
+global.titulowm = '༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
 global.titulowm2 = `༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫`
 global.igfg = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
 global.botname = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.dev = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.textbot = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
-global.gt = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
-global.namechannel = '༒︎☠︎︎𝗕𝗥𝗢𝗢𝗞-𝗕𝗢𝗧☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.dev = '༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.textbot = '༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
+global.gt = '༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎' 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫';
+global.namechannel = '༒︎☠︎︎BARDOCK-SUPER-BOT☠︎︎༒︎ 💫𝙏𝙀𝘼𝙈 𝘼𝙉𝙄𝙈𝙀💫'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -93,7 +93,7 @@ global.sickerque = [que, que2, que3, que4, que5, que6]
 global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'BROOK-BOT-MD࿐', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'BRARDOCK-BOT-MD࿐', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'BROOK-BOT-MD', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕⚔️', jpegThumbnail: logo5 }}};
 
@@ -101,7 +101,7 @@ global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 
 global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'BROOK', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Kᴀᴋᴀʀᴏᴛᴏ (^_^♪) ⚔️', jpegThumbnail: logo5 }}};
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'BROOK༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'BRARDOCK༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
  
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp4 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Grupo Oficial De Drako
